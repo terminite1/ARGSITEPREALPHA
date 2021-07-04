@@ -1,4 +1,5 @@
-# launch run.exe : )
+# THIS IS NOT MEANT FOR PROPER USE
 
-Just to clarify, there is nothing important in the site Y E T.
-It's pretty much worthless for now, just wait for final release
+I am TESTING CODE that is not guaranteed to be in the final version.
+
+Do not use without expecting it to be fully functional.
